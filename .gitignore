@@ -1,0 +1,13 @@
+target/
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+*.class
+*.jar
+*.war
+*.ear
+.DS_Store
+*.log
